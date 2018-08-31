@@ -1,4 +1,4 @@
-# tosins_tmux_docs
+# Tosin's Tmux Docs
 This contains a of helpful resources to use tmux
 
 ## CheatSheets
